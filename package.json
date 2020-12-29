@@ -1,0 +1,27 @@
+{
+  "name": "mypersonalwebsite",
+  "version": "1.0.0",
+  "description": "just some website with my name on it",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dustin-dusTir/MyPersonalWebsite.git"
+  },
+  "author": "Dustin Walker",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Dustin-dusTir/MyPersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/Dustin-dusTir/MyPersonalWebsite#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
