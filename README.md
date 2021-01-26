@@ -3,7 +3,7 @@
 # MyPersonalWebsite
 well, this is just my lazy static website
 with a simple w3Layout.
-It's live, visite at [www.dustinwalker.de/](https://www.dustinwalker.de/)
+It's live, visite at [www.dustinwalker.de](https://www.dustinwalker.de/)
 
 Lets try out some Contious Integration
 and some contionous Developement
