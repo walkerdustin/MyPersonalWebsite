@@ -3,8 +3,9 @@
 # MyPersonalWebsite
 well, this is just my lazy static website
 with a simple w3Layout.
-It's live, visit at [www.dustinwalker.de](https://www.dustinwalker.de/)
+It's live! Visit at [www.dustinwalker.de](https://www.dustinwalker.de/)
 
-Lets try out some Contious Integration
-and some contionous Developement
-cause that is super hot right now! right?
+Its deployed on netlify.com on it's free tier.
+It has continuous Deployment. With every push to the main branch, the website gets built and immediately deployed.
+
+email Form feature is in progress.
