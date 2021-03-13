@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<h3 class="tittle-2">About Myself</h3>
 			<div class="row">
 				<div class="col-lg-6 about-img text-center" style="padding-left: 50px;">
-					<img class="img-fluid" src="./images/ab2.png" alt="">
+					<img class="img-fluid" src="./images/ab2.jpg" alt="">
 				</div>
 				<div class="col-lg-6 about-right">
 					<h4 class="about-tit">Hi !<br>I'm Dustin Walker </h4>
@@ -242,7 +242,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<h3 class="tittle-2">My Resume</h3>
 			<div class="d-lg-flex">
 				<div class="col-lg-4 left-grid-resu">
-					<img src="./images/per2.png" alt="" class="img-fluid">
+					<img src="./images/per2.jpg" alt="" class="img-fluid">
 				</div>
 				<div class="col-xl-7 col-lg-8 tab-main offset-xl-1 py-lg-0 py-5">
 					<input id="tab1" type="radio" name="tabs" class="w3pvt-sm" checked>
@@ -313,7 +313,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="row no-gutters news-grids text-center">
 					<div class="col-md-4 gal-img">
 						<a href="#gal3"><img src="./images/g3.jpg" alt="news image" class="img-fluid"></a>
-						<a href="#gal2"><img src="./images/Pointclouds.png" alt="news image" class="img-fluid"></a>
+						<a href="#gal2"><img src="./images/Pointclouds.jpg" alt="news image" class="img-fluid"></a>
 					</div>
 					<div class="col-md-4 gal-img">
 						<a href="#gal4"><img src="./images/desk.jpg" alt="news image" class="img-fluid"></a>
