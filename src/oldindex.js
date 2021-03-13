@@ -1,5 +1,3 @@
-import { camelCase } from "lodash";
-
 addEventListener("load", function () {
     setTimeout(hideURLbar, 0);
 }, false);
