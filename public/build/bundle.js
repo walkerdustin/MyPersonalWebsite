@@ -1284,7 +1284,7 @@ var app = (function () {
     			attr_dev(h30, "class", "tittle-2");
     			add_location(h30, file, 78, 3, 2340);
     			attr_dev(img0, "class", "img-fluid");
-    			if (img0.src !== (img0_src_value = "./images/ab2.png")) attr_dev(img0, "src", img0_src_value);
+    			if (img0.src !== (img0_src_value = "./images/ab2.jpg")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "");
     			add_location(img0, file, 81, 5, 2485);
     			attr_dev(div7, "class", "col-lg-6 about-img text-center");
@@ -1467,7 +1467,7 @@ var app = (function () {
     			add_location(div58, file, 149, 1, 5033);
     			attr_dev(h38, "class", "tittle-2");
     			add_location(h38, file, 241, 3, 7813);
-    			if (img1.src !== (img1_src_value = "./images/per2.png")) attr_dev(img1, "src", img1_src_value);
+    			if (img1.src !== (img1_src_value = "./images/per2.jpg")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "");
     			attr_dev(img1, "class", "img-fluid");
     			add_location(img1, file, 244, 5, 7926);
@@ -1555,7 +1555,7 @@ var app = (function () {
     			add_location(img2, file, 314, 22, 10846);
     			attr_dev(a12, "href", "#gal3");
     			add_location(a12, file, 314, 6, 10830);
-    			if (img3.src !== (img3_src_value = "./images/Pointclouds.png")) attr_dev(img3, "src", img3_src_value);
+    			if (img3.src !== (img3_src_value = "./images/Pointclouds.jpg")) attr_dev(img3, "src", img3_src_value);
     			attr_dev(img3, "alt", "news image");
     			attr_dev(img3, "class", "img-fluid");
     			add_location(img3, file, 315, 22, 10936);
