@@ -5,6 +5,9 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 
+<script>
+</script>
+
 <body>
 	<!-- home -->
 	<div id="home">
@@ -126,19 +129,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="container py-xl-5 py-lg-3">
 			<div class="row text-center py-sm-3">
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left">
-					<p class="counter">800</p>
-					<p class="para-text-w3ls text-li">cups of coffee</p>
+					<p class="counter"># 1</p>
+					<p class="para-text-w3ls text-li">in class</p>
 				</div>
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left mt-sm-0 mt-4">
-					<p class="counter">400 000</p>
-					<p class="para-text-w3ls text-li">colleagues</p>
+					<p class="counter">> 20</p>
+					<p class="para-text-w3ls text-li">trained ML Models</p>
 				</div>
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left mt-md-0 mt-4">
-					<p class="counter">4</p>
-					<p class="para-text-w3ls text-li">categories</p>
+					<p class="counter">12</p>
+					<p class="para-text-w3ls text-li">github Repositories</p>
 				</div>
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left mt-md-0 mt-4">
-					<p class="counter">55</p>
+					<p class="counter">60</p>
 					<p class="para-text-w3ls text-li">kg Pullup</p>
 				</div>
 			</div>
@@ -174,7 +177,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 						</div>
 						<h3>Build Prototypes</h3>
-						<p>With my vast amount of building skills</p>
+						<p>With my vast amount of Mechatronics prototyping skills</p>
 					</div>
 				</div>
 				<div class="col-lg-4">
@@ -201,8 +204,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</div>
 						</div>
-						<h3>Software</h3>
-						<p>create all kinds of stuff with good enough style and basic programming principles</p>
+						<h3>Create Software</h3>
+						<p>create all kinds of apps and scripts with advanced programming principles an good enough style </p>
 					</div>
 				</div>
 				<div class="col-lg-4">
@@ -210,7 +213,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="dodecagon">
 							<div class="dodecagon-in">
 								<div class="dodecagon-bg back5">
-									<span class="fa fa-coffee"></span>
+									<span class="fa fa-question">
 								</div>
 							</div>
 						</div>
@@ -223,12 +226,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="dodecagon">
 							<div class="dodecagon-in">
 								<div class="dodecagon-bg back6">
-									<span class="fa fa-umbrella"></span>
+									<span class="fa fa-pied-piper-alt">
 								</div>
 							</div>
 						</div>
-						<h3>Umberella</h3>
-						<p>You can stand under my umbrella, ella, ella, eh, eh, eh, eh-eh</p>
+						<h3>Entrepreneurship</h3>
+						<p>Validated Learnings through a lean, iterative and creative process</p>
 					</div>
 				</div>
 			</div>
@@ -249,42 +252,48 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<label for="tab1"><span class="fa fa-graduation-cap" aria-hidden="true"></span>Education</label>
 					<input id="tab2" type="radio" class="w3pvt-sm" name="tabs">
 					<label for="tab2"><span class="fa fa-briefcase" aria-hidden="true"></span>Experience</label>
-					<section id="content1">
-						<div class="inner-w3pvt-wrap mt-3">
-							<h4>Bachelor of Engineering</h4>
-							<h6>- Reutlingen University- 2021</h6>
-							<p>Speciallized in Automation, wich was mostly Computer Science though.</p>
-						</div>
+					<section id="content1" class="mb-3">
 						<div class="inner-w3pvt-wrap">
-							<h4>Are you actually reading</h4>
-							<h6>- 2020-2020</h6>
-							<p>If you are reading this because I have applied for a job, you are offering
-								please tell me! Code: 	Walrus!
-								Why Walrus? Well ask me in the Interview, you are inviting me in...
+							<h4>Master in Digital Business Engineer</h4>
+							<h6>- 2020-2021</h6>
+							<p>Reutlingen University -- 70% Computer Science 30% Business Skills <br/>
+								with focus on innovative Technologies like Big Data, Machine Learning, AI, IOT <br/>
+								with intense Intra- and Entrepreneurship Skills
 							</p>
 						</div>
+						<div class="inner-w3pvt-wrap mt-3">
+							<h4>Bachelor in Mechatronics Engineering</h4>
+							<h6>- 2017 to 2021</h6>
+							<p>Reutlingen University -- Specialized in Automation, which was mostly Computer Science though.</p>
+						</div>
+						
 						<div class="inner-w3pvt-wrap">
-							<h4>Aprenticeship Mechatronik</h4>
+							<h4>Apprenticeship Mechatronik</h4>
 							<h6>- Robert Bosch GmbH Reutlingen- 2018</h6>
-							<p>Done in two years instead of 3.5</p>
-							<p>  </p>
+							<p>Done in just two years instead of 3.5</p>
 						</div>
 					</section>
-					<section id="content2">
+					<section id="content2" class="mb-3">
 						<div class="inner-w3pvt-wrap mt-3">
-							<h4>various Personal Projekts</h4>
+							<h4>working Student</h4>
+							<h6>- 2020 to 2021 at BOSCH Power Tools Leinfelden</h6>
+							<p>Web Developement (CMS) -- I have created about 500 sites</p>
+							<p>Web Development with python plotly dash</p>
+						</div>
+						<div class="inner-w3pvt-wrap mt-3">
+							<h4>various Personal Projects</h4>
 							<h6>- 2016-forever</h6>
 							<p>check out my Github for more info</p>
 							<p>I have built my own electrical Desk with off the shelf Parts (Pictures on instagram)</p>
 						</div>
 						<div class="inner-w3pvt-wrap">
 							<h4>Bachelorthesis</h4>
-							<h6> - 2020-2021 at BOSCH Power Tools Leinfelden (PT-BI/PXF2)</h6>
-							<p>Designing a High Frequency bidirectional ISolation Circuit</p>
+							<h6> - 2020-2021 at BOSCH Power Tools Leinfelden </h6>
+							<p>Designing a High Frequency bidirectional Isolation Circuit for microcontroller debugging communication</p>
 						</div>
 						<div class="inner-w3pvt-wrap">
 							<h4>Praxissemester</h4>
-							<h6> - 2018-2020 at BOSCH Power Tools Leinfelden (PT-MT/PXN)</h6>
+							<h6> - 2018-2020 at BOSCH Power Tools Leinfelden </h6>
 							<p>Prototyping, designing, programming, testing. Improving Panorama stitching with Machine Learning</p>
 						</div>
 					</section>
@@ -298,7 +307,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<section class="w3ls-bnrbtm py-5 text-center">
 		<div class="container py-xl-5">
 			<div class="cont-w3pvt">
-				<h3 class="w3pvt-web-title">Invite me to the Job-Interview to learn more about me</h3>
+				<h3 class="w3pvt-web-title">If you like what you see, I would love to meet you</h3>
+				<!-- <h3 class="w3pvt-web-title">Invite me to the Job-Interview to learn more about me</h3> -->
 				<!-- <a href="#hire" class="btn button-style mt-sm-5 mt-4">Hire Me</a> -->
 			</div>
 		</div>

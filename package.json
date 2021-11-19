@@ -1,12 +1,13 @@
 {
+  "type": "module",
   "name": "mypersonalwebsite",
   "version": "1.0.0",
   "description": "just some website with my name on it",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public"
+    "start": "sirv public --no-clear"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "font-awesome": "^4.7.0",
     "sirv-cli": "^1.0.0"
   }
 }
