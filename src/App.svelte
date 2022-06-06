@@ -137,12 +137,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<p class="para-text-w3ls text-li">trained ML Models</p>
 				</div>
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left mt-md-0 mt-4">
-					<p class="counter">12</p>
-					<p class="para-text-w3ls text-li">github Repositories</p>
+					<p class="counter">17</p>
+					<p class="para-text-w3ls text-li">GitHub Repositories</p>
 				</div>
 				<div class="col-md-3 col-sm-6 w3layouts_stats_left mt-md-0 mt-4">
-					<p class="counter">60</p>
-					<p class="para-text-w3ls text-li">kg Pullup</p>
+					<p class="counter">220 kg</p>
+					<p class="para-text-w3ls text-li">Deadlift</p>
 				</div>
 			</div>
 		</div>
@@ -268,17 +268,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						
 						<div class="inner-w3pvt-wrap">
-							<h4>Apprenticeship Mechatronik</h4>
+							<h4>Apprenticeship Mechatronics</h4>
 							<h6>- Robert Bosch GmbH Reutlingen- 2018</h6>
 							<p>Done in just two years instead of 3.5</p>
 						</div>
 					</section>
 					<section id="content2" class="mb-3">
 						<div class="inner-w3pvt-wrap mt-3">
-							<h4>working Student</h4>
+							<h4>Master Thesis -- Reinforcement Learning for Industrial Robots</h4>
+							<h6>- 2022/04 to 2022/11 at iT Engineering Software Innovations</h6>
+							<p>With the help of Reinforcement Learning, an Agent is to be trained to output the <nobr>G-Code</nobr>,
+								that controls industrial Robots like a Kuka <nobr>6-Axis</nobr> robot
+							</p>
+						</div>
+						<div class="inner-w3pvt-wrap mt-3">
+							<h4>working Student as Data Engineer</h4>
 							<h6>- 2020 to 2021 at BOSCH Power Tools Leinfelden</h6>
-							<p>Web Developement (CMS) -- I have created about 500 sites</p>
+							<p>Web Developement (CMS) -- I have created more than 500 pages</p>
 							<p>Web Development with python plotly dash</p>
+							<p>develop Algorithms in Python the 2D-Scanner Project</p>
 						</div>
 						<div class="inner-w3pvt-wrap mt-3">
 							<h4>various Personal Projects</h4>
@@ -307,7 +315,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<section class="w3ls-bnrbtm py-5 text-center">
 		<div class="container py-xl-5">
 			<div class="cont-w3pvt">
-				<h3 class="w3pvt-web-title">If you like what you see, I would love to meet you</h3>
+				<h3 class="w3pvt-web-title">If you like what you see, I would love to meet you in an Interview for an Engineering Role</h3>
 				<!-- <h3 class="w3pvt-web-title">Invite me to the Job-Interview to learn more about me</h3> -->
 				<!-- <a href="#hire" class="btn button-style mt-sm-5 mt-4">Hire Me</a> -->
 			</div>
