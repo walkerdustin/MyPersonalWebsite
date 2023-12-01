@@ -4,8 +4,21 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
-<script>
-</script>
+<head>
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-M176KSJ1Q2"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-M176KSJ1Q2");
+  </script>
+</head>
 
 <body>
   <!-- home -->
