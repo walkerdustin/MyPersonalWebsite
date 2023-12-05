@@ -1,5 +1,12 @@
 [build]
-    # This is the directory to change to before starting a build.
-    base    = "/"
-    command = "npm run build"
-    publish = "public/" 
+# This is the directory to change to before starting a build.
+base = "/"
+command = "npm run build"
+publish = "public/"
+
+[[redirects]]
+from = "/ingest/*"
+to = "https://app.posthog.com/:splat"
+host = "app.posthog.com"
+status = 200
+force = true
