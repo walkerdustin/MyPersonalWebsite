@@ -6,7 +6,7 @@ publish = "public/"
 
 [[redirects]]
 from = "/ingest/*"
-to = "https://app.posthog.com/:splat"
-host = "app.posthog.com"
+to = "https://eu.posthog.com/:splat"
+host = "eu.posthog.com"
 status = 200
 force = true
