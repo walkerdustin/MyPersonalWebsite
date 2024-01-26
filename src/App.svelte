@@ -50,7 +50,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </li>
               </ul>
             </div>
-            <a href="#about" class="btn button-style mt-5">Read More</a>
+            <a
+              href="#about"
+              class="btn button-style mt-5"
+              style="background: rgba(0,0,0,0.4);">Read More</a
+            >
+            <div>
+              <a
+                class="btn button-style mt-5"
+                style="margin-right: 1em; color: white; background: rgba(0,0,0,0.4);"
+                target="_blank"
+                href="https://veilmail.io/e/mWccjP">Contact Me</a
+              >
+            </div>
           </div>
         </div>
       </div>
@@ -76,8 +88,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <li><a href="#what">What i do ?</a></li>
             <li><a href="#resume">My Resume</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#hire">Hire Me</a></li>
+            <!-- <li><a href="#blog">Blog</a></li>
+            <li><a href="#hire">Hire Me</a></li> -->
           </ul>
         </li>
       </ul>
@@ -100,13 +112,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
         <div class="col-lg-6 about-right">
           <h4 class="about-tit">Hi !<br />I'm Dustin Walker</h4>
-          <p style="padding-top:2em">I am an ENGINEER</p>
-          <p style="text-align:center;">
-            <em>curious, resourceful, inventive, creative</em>
+          <p style="padding-top:2em">
+            I am a Generative AI Applications Engineer | Building Applications
+            powered by AI
           </p>
-          <p />
           <p>
-            I enjoy creating things, that ease my, or the life of others,
+            I enjoy creating things, that ease my, or the lives of others,
             creations that improve the World, even by a tiny bit. I like making
             things that have never been done before. I always strive to find out
             the truth
@@ -227,7 +238,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <h3>Create Software</h3>
             <p>
               create all kinds of apps and scripts with advanced programming
-              principles an good enough style
+              principles and good enough style
             </p>
           </div>
         </div>
@@ -242,7 +253,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <h3>Ask Questions</h3>
             <p>
-              Because asking the right Questions is more important, then finding
+              Because asking the right questions is more important, than finding
               the right answer
             </p>
           </div>
@@ -297,7 +308,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
               <p>
                 Reutlingen University -- 70% Computer Science 30% Business
                 Skills <br />
-                with focus on innovative Technologies like Big Data, Machine Learning,
+                with a focus on innovative Technologies like Big Data, Machine Learning,
                 AI, IOT <br />
                 with Intra- and Entrepreneurship Skills<br />
                 <b>Valedictorian</b> and <b>Student Representative</b> <br />
@@ -334,12 +345,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="inner-w3pvt-wrap mt-3">
               <h4>Dev-Ops Engineer</h4>
-              <h6>- 2022/11 to today at Canon Production Printing</h6>
+              <h6>- 2022/11 to 2024/02 at Canon Production Printing</h6>
               <p>
                 <b>Lead</b> the project for automating deploys. <br />
                 Consolidating all software components into an OS-Image <br />
-                Deleting 80% of the codebase, getting rid of legacy baggage; improve
-                performance by 30%
+                improve performance by 50% <br />
+                Streamline the development Process, by getting parties to agree on
+                common Solutions and remove legacy requirements.
               </p>
             </div>
             <div class="inner-w3pvt-wrap mt-3">
@@ -358,10 +370,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="inner-w3pvt-wrap mt-3">
               <h4>working Student as Data Engineer</h4>
               <h6>- 2020 to 2021 at BOSCH Power Tools Leinfelden</h6>
-              <p>
-                Web Developement (CMS) -- I have created more than 500 pages
-              </p>
-              <p>Web Development with python, plotly, dash</p>
+              <p>Web Development (CMS) -- I have created more than 500 pages</p>
+              <p>Web Development with Python, Plotly, dash</p>
               <p>
                 develop Algorithms in Python for calculating point clouds and 2D
                 room scans
@@ -370,10 +380,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="inner-w3pvt-wrap mt-3">
               <h4>various Personal Projects</h4>
               <h6>- 2016-forever</h6>
-              <p>check out my Github for more info</p>
+              <p>Check out my GitHub for more info</p>
               <p>
-                I have built my own electrical Desk with off the shelf Parts
-                (Pictures on instagram)
+                I have built an electrical Desk with off-the-shelf Parts
+                (Pictures on Instagram)
               </p>
             </div>
             <div class="inner-w3pvt-wrap">
